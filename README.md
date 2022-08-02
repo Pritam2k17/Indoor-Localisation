@@ -1,2 +1,3 @@
 # Indoor-Localisation
 In this project we have collected data from HL Roy Building, Jadavpur University and used the data to feed our Machine Learning model. 
+Indoor localization refers to tracking objects in an indoor environment. This tracking can be either in 2‑dimensions, 3‑dimensions, or 2.5‑dimensions. 2.5‑dimensions refers to the case when the object position is tracked at discrete plans of the 3‑dimensional space, rather than the entire continuum of the 3‑dimensional space. For example, tracking a person in multiple 2‑dimensional floor-plans in a 3‑dimensional building can be considered a 2.5‑dimensional tracking.
